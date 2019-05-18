@@ -152,3 +152,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgement
 
 This project is writen by [Prince Wang](https://github.com/princewang1994), part of codes refer to [songdejia/EAST](https://github.com/songdejia/EAST)
+
+## 李剑备注：
+-https://www.cnblogs.com/lillylin/p/9955181.html 【论文翻译】2018 TextSnake
